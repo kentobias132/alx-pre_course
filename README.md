@@ -1,2 +1,1 @@
-My first readme
-Its Alx software pjt repo
+Alx software engineer pjt repo
